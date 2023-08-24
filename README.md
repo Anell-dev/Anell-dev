@@ -1,7 +1,7 @@
-<div align="center">
-  <h1> Hi 👋, I'm Edwin Anel Gonzalez 😉 </h1>
-  <img src="https://github.com/Anell-dev/Anell-dev/assets/107370957/f7263c13-0d37-4fe2-8445-7be43758ed49" width="600" height="300"/>
-</div>
+<h1 align="center"> Hi 👋, I'm Edwin Anel Gonzalez 😉 </h1>
+<p align="center">
+  <img align="center" src="https://github.com/Anell-dev/Anell-dev/assets/107370957/f7263c13-0d37-4fe2-8445-7be43758ed49" width="600" height="300">
+</p>
 
 ## About Me
 I live in Panama City, currently studying 📚 a [Bachelor's Degree in Software Development](https://fisc.utp.ac.pa/) at the [Technological University of Panama](https://utp.ac.pa/).  
