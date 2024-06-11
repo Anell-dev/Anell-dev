@@ -9,7 +9,7 @@ Developer oriented mainly to Frontend and in the future to Mobile Development...
 <br></br>
 
 <h3 align="left">You can follow me on</h3>
-  <a href="https://www.instagram.com/anel.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/anel.dev/" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/anell.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/anel.dev/" height="30" width="40" /></a>
   <a href="https://leetcode.com/anel_dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/anel_dev/" height="30" width="40" /></a>
 <br></br>
 
