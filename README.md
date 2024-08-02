@@ -1,7 +1,6 @@
-## Hi, I'm Edwin Anel González 👋
+## Hi 👋, I'm Edwin Anel González
 
-### I'm glad to see you here!
-
+#### I'm glad to see you here!
 I live in [Panama City](https://www.google.com/search?q=ciudad+de+panama&rlz=1C1CHBF_esPA977PA977&oq=ciudad+de+panama&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg80gEIMzAyNWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8), currently studying 📚 a [Bachelor's Degree in Software Development](https://fisc.utp.ac.pa/) at the [Technological University of Panama](https://utp.ac.pa/).
 
 Developer mainly oriented to the Frontend side with technologies like React, TypeScript and Tailwind.<br/>
@@ -16,13 +15,15 @@ All this complemented with relational and non-relational databases like MySql an
 
 ## Connect with me
 <div align="left">
-  <a href="www.linkedin.com/in/edwin-anel-gonzález-978b6a234" target="_blank">
+  <a href="https://www.linkedin.com/in/edwin-anel-gonz%C3%A1lez-978b6a234" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/anell.dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="25" alt="instagram logo"  />
   </a>
-  <img href="mailto:aneh6272@gmail.com" target="_blank" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="25" alt="gmail logo"  />
+  <a href="mailto:aneh6272@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
 <br/>
