@@ -4,7 +4,7 @@
 I live in [Panama City](https://www.google.com/search?q=ciudad+de+panama&rlz=1C1CHBF_esPA977PA977&oq=ciudad+de+panama&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg80gEIMzAyNWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8), currently studying 📚 a [Bachelor's Degree in Software Development](https://fisc.utp.ac.pa/) at the [Technological University of Panama](https://utp.ac.pa/).
 
 Developer mainly oriented to the Frontend side with technologies like React, TypeScript and Tailwind.<br/>
-If you wish I can also work on the Backend side with technologies like Node, Express, Java, SpringBoot.<br/>
+If you wish I can also work on the Backend side with technologies like Node, Express, PHP, Laravel.<br/>
 All this complemented with relational and non-relational databases like MySql and MongoDb.
 
 - 📢 I am currently open to internships and employment.
@@ -20,7 +20,8 @@ All this complemented with relational and non-relational databases like MySql an
   <a href="https://www.instagram.com/anell.dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="25" alt="instagram logo"  /></a>
   <a href="mailto:aneh6272@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="25" alt="gmail logo"  />aneh6272@gmail.com</a>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="25" alt="gmail logo"  />aneh6272@gmail.com</a> /
+  <a href="mailto:edwin.gonzalez18@utp.ac.pa" target="_blank">edwin.gonzalez18@utp.ac.pa</a>
 </div>
 
 <br/>
@@ -34,10 +35,6 @@ All this complemented with relational and non-relational databases like MySql an
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="33" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="33" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="33" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="33" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="33" alt="mysql logo"  />
   <img width="12" />
