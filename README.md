@@ -71,6 +71,17 @@ All this complemented with relational and non-relational databases like MySql an
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anell-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" style="height: 200px; width: auto;" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Anell-dev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" style="height: 200px; width: auto;" alt="streak graph"  />
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anell-dev&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=dark#gh-dark-mode-only" />
+  </a>
+  <br/>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Anell-dev&show_icons=true&theme=dark#gh-dark-mode-only" />
+</a>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <img src="https://streak-stats.demolab.com?user=Anell-dev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" style="height: 200px; width: auto;" alt="streak graph" />
+  </a>
 </div>
+
