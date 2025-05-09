@@ -9,7 +9,7 @@ All this complemented with relational and non-relational databases like MySql an
 
 - 📢 I am currently open to internships and employment.
 - ⚡ In my free time I like to take the air, spend time with family and sometimes play video games.
-- 📝Fun fact about me I've never had a girlfriend 🥴🤓
+- 📝 Fun fact about me I've never had a girlfriend 🥴🤓
 
 <br/>
 
