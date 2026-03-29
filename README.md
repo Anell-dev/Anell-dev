@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Edwin Anel González</h1>
 
 ### I'm glad to see you here!
-I live in [Panama City](https://www.google.com/search?q=ciudad+de+panama&rlz=1C1CHBF_esPA977PA977&oq=ciudad+de+panama&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg80gEIMzAyNWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8), currently studying 📚 a [Bachelor's Degree in Software Development](https://fisc.utp.ac.pa/) at the [Technological University of Panama](https://utp.ac.pa/).
+Bachelor's Degree in Software Development - [Technological University of Panama](https://utp.ac.pa/).
 
 Developer mainly oriented to the Frontend side with technologies like React, TypeScript and Tailwind.<br/>
 If you wish I can also work on the Backend side with technologies like Node, Express, PHP, Laravel.<br/>
 All this complemented with relational and non-relational databases like MySql and MongoDb.
 
-- 📢 I am currently open to internships and employment.
-- ⚡ In my free time I like to take the air, spend time with family and sometimes play video games.
+- 📢 I am currentlyI working full-time.
+- ⚡ In my free time I like to take the air, spend time with family and play video games.
 - 📝 Fun fact about me I've never had a girlfriend 🥴🤓
 
 <br/>
